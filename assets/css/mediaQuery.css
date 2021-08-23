@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+
+@media all and (min-width:1px) and (max-width:1023px) { /* main */
+        #logo {width: 100%;}
+}
+@media all and (min-width:1px) and (max-width:605px) { /* main */
+        .headImg {width: 100%;}
+        .moveImg {width: 100%;}
+}
+@media all and (min-width:1px) and (max-width:400px) { /* main */
+        #logo span {font-size: 20vw; line-height: 20vw;}
+}
